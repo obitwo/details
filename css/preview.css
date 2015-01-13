@@ -1,0 +1,64 @@
+.preview-container{
+	position: fixed;
+	z-index: 9999;
+	top: 100px;
+	right: -210px;
+	width: 210px;
+	background: #FFF;
+	border-width: 3px 0 3px 3px;
+	border-color: #DDD;
+	border-style: solid;
+}
+.toggle-preview{
+	position: absolute;
+	width: 40px;
+	line-height: 35px;
+	height: 40px;
+	top: -3px;
+	left: -40px;
+	display: block;
+	text-align: center;
+	cursor: pointer;
+	font-size: 24px;
+	background: #FFF;
+	color: #555;
+	border-width: 3px 0 3px 3px;
+	border-color: #DDD;
+	border-style: solid;
+}
+.preview-form{
+	padding: 1em;
+}
+.preview-form p{
+}
+.preview-options .row{
+	margin-bottom: 1em;
+}
+.preview-options label{
+	font-size: 12px;
+	color: black;
+	font-weight: 700;
+	clear: both;
+	display: block;
+	margin-bottom: 5px;
+}
+.of-color{
+	display: block;
+	margin-left: 30px;
+	width: 100px;
+}
+.colorpicker{
+	z-index: 9999;
+}
+.preview-container select{
+	width: 100%;
+}
+input.preview-submit{
+}
+.boxed-image{
+  background-image: url(../img/boxed-bg.jpg); 
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}

@@ -1,0 +1,36 @@
+		a{
+			color: #215C7F;
+		}
+		a:hover{
+			color: #a19638;
+		}
+		.top-bar, .top-bar-section ul, .top-bar .top-bar-section ul.dropdown, .top-bar-section .has-form, .nav-search{
+			background-color: #B24044;
+		}
+		.top-bar-section li:not(.has-form) a:not(.button){
+			color: #FFF;
+		}
+		.header{
+			background-color: #FFF;
+		}
+		.header .logo a{
+			color: #215C7F;
+		}
+		a.post-format-icon{
+			background: #215C7F;
+			color: white;
+		}
+		.cart-contents .amount{
+			color: white;
+		}
+		page-links a:hover, .page-links > span, .nav-previous a:hover, .nav-next a:hover, .top-bar-section ul li>a.button:hover, .thumb-box .thumb-stats a.post-format-icon:hover, body.woocommerce a.button.alt:hover, body.woocommerce button.button.alt:hover, body.woocommerce input.button.alt:hover, body.woocommerce #respond input#submit.alt:hover, body.woocommerce #content input.button.alt:hover, body.woocommerce-page a.button.alt:hover, body.woocommerce-page button.button.alt:hover, body.woocommerce-page input.button.alt:hover, body.woocommerce-page #respond input#submit.alt:hover, body.woocommerce-page #content input.button.alt:hover, button:hover, button.btn:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, #bbpress-forums div.bbp-the-content-wrapper div.quicktags-toolbar input:hover, body #buddypress button:hover, body #buddypress a.button:hover, body #buddypress input[type=submit]:hover, body #buddypress input[type=button]:hover, body #buddypress input[type=reset]:hover, body #buddypress ul.button-nav li a:hover, body #buddypress div.generic-button a:hover, body #buddypress .comment-reply-link:hover, body a.bp-title-button:hover, body #buddypress div.item-list-tabs ul li a span:hover, body #buddypress div.activity-meta a:hover, body #buddypress div.item-list-tabs ul li a:hover span:hover, body.woocommerce a.button:hover, body.woocommerce-page a.button:hover, body.woocommerce button.button:hover, body.woocommerce-page button.button:hover, body.woocommerce input.button:hover, body.woocommerce-page input.button:hover, body.woocommerce #respond input#submit:hover, body.woocommerce-page #respond input#submit:hover, body.woocommerce #content input.button:hover, body.woocommerce-page #content input.button:hover, body.woocommerce ul.products li.product .onsale, body.woocommerce-page ul.products li.product .onsale, body.woocommerce span.onsale, body.woocommerce-page span.onsale, body.woocommerce nav.woocommerce-pagination ul li span.current, body.woocommerce nav.woocommerce-pagination ul li a:hover, body.woocommerce nav.woocommerce-pagination ul li a:focus, body.woocommerce #content nav.woocommerce-pagination ul li span.current, body.woocommerce #content nav.woocommerce-pagination ul li a:hover, body.woocommerce #content nav.woocommerce-pagination ul li a:focus, body.woocommerce-page nav.woocommerce-pagination ul li span.current, body.woocommerce-page nav.woocommerce-pagination ul li a:hover, body.woocommerce-page nav.woocommerce-pagination ul li a:focus, body.woocommerce-page #content nav.woocommerce-pagination ul li span.current, body.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, body.woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .tagcloud a:hover, a.author-button:hover, .home-featured .main-feature .thumb-box .caption-container .caption a.feature-button:hover, .top-bar .top-bar-section ul li>a.button:hover{
+			background: #a19638;
+		}
+		button, input.button, button.button, html input[type="button"], input[type="reset"], input[type="submit"], #bbpress-forums div.bbp-the-content-wrapper div.quicktags-toolbar input, body #buddypress button, body #buddypress a.button, body #buddypress input[type=submit], body #buddypress input[type=button], body #buddypress input[type=reset], body #buddypress ul.button-nav li a, body #buddypress div.generic-button a, body #buddypress .comment-reply-link, body a.bp-title-button, body #buddypress div.item-list-tabs ul li a span, body #buddypress div.activity-meta a:hover, body #buddypress div.item-list-tabs ul li a:hover span, body.woocommerce a.button, body.woocommerce-page a.button, body.woocommerce button.button, body.woocommerce-page button.button, body.woocommerce input.button, body.woocommerce-page input.button, body.woocommerce #respond input#submit, body.woocommerce-page #respond input#submit, body.woocommerce #content input.button, body.woocommerce-page #content input.button, .top-bar-section .search-li a.toggle-search, #buddypress div.item-list-tabs ul li.selected a span, #buddypress div.item-list-tabs ul li.current a span{
+			background: #651A1D;
+			color: white;
+		}
+		.ticker-title-padding{
+			background: white!important;
+			color: #998D37!important;
+		}		
